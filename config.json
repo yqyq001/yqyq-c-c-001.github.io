@@ -1,0 +1,13 @@
+{
+    "title":"椰青叶青",
+    "subTitle":"椰青叶青个人博客",
+    "avatarUrl":"https://avatars.githubusercontent.com/u/220160960?v=4&size=64",
+    "GMEEK_VERSION":"last",
+    "backgroundDesktop": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=1920",
+    "backgroundMobile": "https://images.unsplash.com/photo-1557683316-973673baf926?w=800",
+    "glassBlur": "20px",
+    "glassOpacity": "0.85",
+    "glassRadius": "20px",
+    "glassBorder": "1px solid rgba(255, 255, 255, 0.3)",
+    "glassShadow": "0 8px 32px rgba(0, 0, 0, 0.1)"
+}
